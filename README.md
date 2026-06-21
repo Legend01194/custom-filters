@@ -1,12 +1,5 @@
 # Lavalink Server — Local Custom Filters Plugin 🎧
 
-Your Lavalink server is pre-configured with a private, high-fidelity **Custom Filters Plugin** featuring **130 presets and advanced digital signal processing (DSP) controls**.
-
-The compiled plugin `.jar` has been placed directly in your `plugins/` directory:
-📂 `plugins/lavalink-custom-filters-plugin-1.0.0.jar`
-
-Since the `.jar` is located in the local `plugins/` folder, **no remote configuration is needed** in `application.yml`. Lavalink loads it automatically on startup.
-
 ---
 
 ## 🚀 Bot Developer Integration Guide
