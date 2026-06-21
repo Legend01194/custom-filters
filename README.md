@@ -1,4 +1,4 @@
-# Zeno Lavalink Server — Local Custom Filters Plugin 🎧
+# Lavalink Server — Local Custom Filters Plugin 🎧
 
 Your Lavalink server is pre-configured with a private, high-fidelity **Custom Filters Plugin** featuring **130 presets and advanced digital signal processing (DSP) controls**.
 
